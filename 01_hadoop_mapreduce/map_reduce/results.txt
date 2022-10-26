@@ -1,0 +1,4 @@
+mean_pure           152.7206871868289
+mean_mapreduce		152.72068718682894
+variance_pure	    57674.025246960984
+variance_mapreduce	57675.206594263975

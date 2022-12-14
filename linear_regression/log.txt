@@ -1,0 +1,20 @@
+[2022-11-14 23:49:56] [INFO   ] Train path - src/main/data/train.csv 
+[2022-11-14 23:49:56] [INFO   ] Test path - src/main/data/test.csv 
+[2022-11-14 23:49:56] [INFO   ] Result path - src/main/data/test_predictions.csv 
+[2022-11-14 23:49:56] [INFO   ] Read train data with size (772, 9) 
+[2022-11-14 23:49:56] [INFO   ] Init Linear Regression 
+[2022-11-14 23:49:58] [INFO   ] Reading train data 
+[2022-11-14 23:49:58] [INFO   ] Start cross validation of model 
+[2022-11-14 23:49:58] [INFO   ] Step of validation is 154 
+[2022-11-14 23:49:59] [INFO   ] Fold 0 - MAE-score: 102.43790033228113 
+[2022-11-14 23:49:59] [INFO   ] Fold 1 - MAE-score: 46.41767283539795 
+[2022-11-14 23:49:59] [INFO   ] Fold 2 - MAE-score: 164.68650922665296 
+[2022-11-14 23:49:59] [INFO   ] Fold 3 - MAE-score: 15.751899542979025 
+[2022-11-14 23:49:59] [INFO   ] Fold 4 - MAE-score: 85.87940485316929 
+[2022-11-14 23:49:59] [INFO   ] Training Linear Regression 
+[2022-11-14 23:49:59] [INFO   ] MAE-score on train data - 8.187097750419623 
+[2022-11-14 23:49:59] [INFO   ] Reading test data 
+[2022-11-14 23:49:59] [INFO   ] Read test data with size (258, 8) 
+[2022-11-14 23:49:59] [INFO   ] Predicted test values 
+[2022-11-14 23:49:59] [INFO   ] Saved results in src/main/data/test_predictions.csv 
+[2022-11-14 23:49:59] [INFO   ] Finish scoring with Linear Regression 
